@@ -18,7 +18,7 @@ Currently, I am expanding my knowledge by taking the CS50 course offered by Harv
 Currently, I'm working on my skills. Incase however you're interested in hiring me, please do send me a mail at `admin [at] divine-architext [dot] xyz`.
 
 ## My skillset
-![My Skills](https://skillicons.dev/icons?i=py,git,github,discord,flask,pytorch,html,c)
+![My Skills](https://skillicons.dev/icons?i=py,git,github,discord,flask,pytorch,html,c,raspberrypi)
 
 ## GitHub stats
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=divine-architect&layout=compact&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="divine-architect" />
