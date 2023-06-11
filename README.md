@@ -15,7 +15,7 @@ On the backend side, I harness the Flask framework to build scalable web applica
 Currently, I am expanding my knowledge by taking the CS50 course offered by Harvard. As part of this journey, I am learning the C language to grasp the foundations of low-level programming.
 
 ## Job openings/Employment
-Currently, I'm working on my skills. Incase however you're interested in hiring me, please do send me a mail at `admin [at] divine-architext [dot] xyz`.
+Currently, I'm working on my skills. Incase however you're interested in hiring me, please do send me a mail at `admin [at] divine-architect [dot] xyz`.
 
 ## My skillset
 ![My Skills](https://skillicons.dev/icons?i=py,git,github,discord,flask,pytorch,html,c,raspberrypi)
