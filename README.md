@@ -1,1 +1,1 @@
-paranoid
+I fucking hate college
