@@ -1,1 +1,1 @@
-I fucking hate college
+I fucking hate college.
