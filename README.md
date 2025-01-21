@@ -4,6 +4,3 @@ I post code I write in hackathons, out of boredom or out of necessisty or for sh
 My personal website:
 [https://divinearchitect.dev](https://divinearchitect.dev)
 
-
-Some interesting stats: \
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=divine-architect&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
