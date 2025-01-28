@@ -1,5 +1,5 @@
 Hello, my name is Sachit. I go by the username divine-architect or cyber on the internet. <br>
-I post code I write in hackathons, out of boredom or out of necessisty or for showcasing a skill over here. This page is a work in progress and so is my website.
+I post code I write in hackathons, out of boredom or out of necessisty, for showcasing a skill over here.  I write code for browsers, weird devices, robots and rockets as well.
 
 My personal website:
 [https://divinearchitect.dev](https://divinearchitect.dev)
